@@ -37,20 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0.99215686"
      inkscape:pageshadow="2"
-     inkscape:window-width="2485"
-     inkscape:window-height="1417"
+     inkscape:window-width="1242"
+     inkscape:window-height="1401"
      id="namedview59"
      showgrid="true"
      inkscape:snap-grids="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:zoom="1.2240563"
-     inkscape:cx="398.32267"
-     inkscape:cy="276.42917"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="0.86553851"
+     inkscape:cx="504.05674"
+     inkscape:cy="174.69498"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showguides="true"
      inkscape:pagecheckerboard="true"
@@ -68,6 +68,61 @@
   </sodipodi:namedview>
   <defs
      id="defs13">
+    <marker
+       style="overflow:visible;"
+       id="marker1112"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1110" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1032" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1029" />
+    </marker>
+    <rect
+       x="80"
+       y="140"
+       width="50"
+       height="30"
+       id="rect385" />
+    <rect
+       x="50.404452"
+       y="41.723684"
+       width="41.052476"
+       height="14.683012"
+       id="rect46" />
     <path
        d="m 37.5,28.13 h 84.38 v 75 H 37.5 Z"
        id="bpZsKzcWE" />
@@ -128,17 +183,42 @@
          dominant-baseline="text-before-edge"
          text-anchor="middle"
          id="tspan10">52961</tspan></text>
+    <rect
+       x="50.404453"
+       y="41.723682"
+       width="22.105107"
+       height="14.683014"
+       id="rect46-3" />
+    <rect
+       x="50.404453"
+       y="41.723682"
+       width="41.052475"
+       height="14.683012"
+       id="rect59" />
+    <rect
+       x="50.404453"
+       y="41.723682"
+       width="22.105106"
+       height="14.683014"
+       id="rect46-3-6" />
+    <rect
+       x="50.404453"
+       y="41.723682"
+       width="22.105106"
+       height="14.683014"
+       id="rect99" />
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Layer 0">
+     inkscape:label="Layer 0"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;stroke-width:0.819126"
        id="rect536"
        width="780"
        height="560"
-       x="1.4210855e-14"
+       x="10"
        y="1.4210855e-14" />
   </g>
   <g
@@ -149,7 +229,7 @@
      sodipodi:insensitive="true">
     <g
        id="g21"
-       transform="matrix(2.814648,0,0,3.1666667,48.200694,-67.828336)"
+       transform="matrix(2.2517184,0,0,2.5333333,105.56056,28.737333)"
        style="display:inline;fill:#98fb98">
       <use
          xlink:href="#bpZsKzcWE"
@@ -182,7 +262,7 @@
     </g>
     <g
        id="g21-5"
-       transform="matrix(2.814648,0,0,3.1666667,285.7007,-67.828336)"
+       transform="matrix(2.2517184,0,0,2.5333333,295.56056,28.737333)"
        style="display:inline;fill:#f4d7d7">
       <use
          xlink:href="#bpZsKzcWE"
@@ -215,7 +295,7 @@
     </g>
     <g
        id="g21-4"
-       transform="matrix(2.814648,0,0,3.1666667,48.200697,169.67167)"
+       transform="matrix(2.2517184,0,0,2.5333333,105.56056,218.73734)"
        style="display:inline;fill:#f4d7d7">
       <use
          xlink:href="#bpZsKzcWE"
@@ -248,7 +328,7 @@
     </g>
     <g
        id="g21-5-1"
-       transform="matrix(2.814648,0,0,3.1666667,285.7007,169.67167)"
+       transform="matrix(2.2517184,0,0,2.5333333,295.56056,218.73734)"
        style="display:inline;fill:#98fb98">
       <use
          xlink:href="#bpZsKzcWE"
@@ -284,75 +364,451 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="c1lyQ8VzZw"
-       transform="matrix(3.1666667,0,0,3.1666667,20.3859,-22.125)"
+       transform="matrix(3.1666667,0,0,3.1666667,40.3859,24.905229)"
        inkscape:transform-center-x="13.876403"
        inkscape:transform-center-y="-17.07865"
        style="display:inline">
-      <use
-         xlink:href="#aGtk6U51j"
-         opacity="1"
-         fill="#1e1e1e"
-         fill-opacity="1"
-         id="use23"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
+      <text
+         xml:space="preserve"
+         id="text44"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73684px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect46);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(12.631734,10.580145)"><tspan
+           x="50.404297"
+           y="47.870833"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73684px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">53145</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text44-6"
+       style="font-style:normal;font-weight:normal;font-size:12.6316px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46-3);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(3.1666667,0,0,3.1666667,290.38639,41.378794)"><tspan
+         x="50.404297"
+         y="53.248801"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73684px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">590</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text44-6-5"
+       style="font-style:normal;font-weight:normal;font-size:12.6316px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect46-3-6);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(3.1666667,0,0,3.1666667,90.386388,241.37879)"><tspan
+         x="50.404297"
+         y="53.248801"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73684px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">863</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.999999"
+       x="440"
+       y="410"
+       id="text128"><tspan
+         sodipodi:role="line"
+         id="tspan126"
+         x="440"
+         y="410"
+         style="stroke-width:0.999999">5402</tspan></text>
+    <g
+       id="g253"
+       transform="translate(60,46)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.999999"
+         x="160"
+         y="80"
+         id="text132"
+         inkscape:transform-center-x="-1.6339119"
+         inkscape:transform-center-y="-3.2678237"><tspan
+           sodipodi:role="line"
+           x="160"
+           y="80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan138">Actual</tspan><tspan
+           sodipodi:role="line"
+           x="160"
+           y="98.333374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan142">False</tspan><tspan
+           sodipodi:role="line"
+           x="160"
+           y="116.66675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan144">False</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.999999"
+         x="210"
+         y="80"
+         id="text132-6"
+         inkscape:transform-center-x="-1.6339119"
+         inkscape:transform-center-y="-3.2678237"><tspan
+           sodipodi:role="line"
+           x="210"
+           y="80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan138-8">Predict</tspan><tspan
+           sodipodi:role="line"
+           x="210"
+           y="98.333374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan142-6">False</tspan><tspan
+           sodipodi:role="line"
+           x="210"
+           y="116.66675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan144-0">False</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 160,84 H 260 Z"
+         id="path190" />
     </g>
     <g
-       id="c1lyQ8VzZw-0"
-       transform="matrix(3.1666667,0,0,3.1666667,20.3859,215.375)"
-       inkscape:transform-center-x="13.876403"
-       inkscape:transform-center-y="-17.078654"
-       style="display:inline">
-      <use
-         xlink:href="#aGtk6U51j"
-         opacity="1"
-         fill="#1e1e1e"
-         fill-opacity="1"
-         id="use23-0"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
+       id="g253-0"
+       style="display:inline"
+       transform="translate(60,236)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.999999"
+         x="160"
+         y="80"
+         id="text132-9"
+         inkscape:transform-center-x="-1.6339119"
+         inkscape:transform-center-y="-3.2678237"><tspan
+           sodipodi:role="line"
+           x="160"
+           y="80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan138-88">Actual</tspan><tspan
+           sodipodi:role="line"
+           x="160"
+           y="98.333374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan142-0">True</tspan><tspan
+           sodipodi:role="line"
+           x="160"
+           y="116.66675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan144-4">True</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.999999"
+         x="210"
+         y="80"
+         id="text132-6-6"
+         inkscape:transform-center-x="-1.6339119"
+         inkscape:transform-center-y="-3.2678237"><tspan
+           sodipodi:role="line"
+           x="210"
+           y="80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan138-8-6">Predict</tspan><tspan
+           sodipodi:role="line"
+           x="210"
+           y="98.333374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan142-6-7">False</tspan><tspan
+           sodipodi:role="line"
+           x="210"
+           y="116.66675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan144-0-0">False</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 160,84 H 260 Z"
+         id="path190-7" />
     </g>
     <g
-       id="c1lyQ8VzZw-2"
-       transform="matrix(3.1666667,0,0,3.1666667,242.05257,-22.125)"
-       inkscape:transform-center-x="13.876404"
-       inkscape:transform-center-y="-17.07865"
-       style="display:inline">
-      <use
-         xlink:href="#aGtk6U51j"
-         opacity="1"
-         fill="#1e1e1e"
-         fill-opacity="1"
-         id="use23-4"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
+       id="g253-6"
+       style="display:inline"
+       transform="translate(260,236)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.999999"
+         x="160"
+         y="80"
+         id="text132-4"
+         inkscape:transform-center-x="-1.6339119"
+         inkscape:transform-center-y="-3.2678237"><tspan
+           sodipodi:role="line"
+           x="160"
+           y="80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan138-7">Actual</tspan><tspan
+           sodipodi:role="line"
+           x="160"
+           y="98.333374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan142-4">True</tspan><tspan
+           sodipodi:role="line"
+           x="160"
+           y="116.66675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan144-3">True</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.999999"
+         x="210"
+         y="80"
+         id="text132-6-3"
+         inkscape:transform-center-x="-1.6339119"
+         inkscape:transform-center-y="-3.2678237"><tspan
+           sodipodi:role="line"
+           x="210"
+           y="80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan138-8-8">Predict</tspan><tspan
+           sodipodi:role="line"
+           x="210"
+           y="98.333374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan142-6-72">True</tspan><tspan
+           sodipodi:role="line"
+           x="210"
+           y="116.66675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan144-0-9">True</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 160,84 H 260 Z"
+         id="path190-5" />
     </g>
     <g
-       id="c1lyQ8VzZw-1"
-       transform="matrix(3.1666667,0,0,3.1666667,242.05257,215.375)"
-       inkscape:transform-center-x="13.876404"
-       inkscape:transform-center-y="-17.078654"
-       style="display:inline">
-      <use
-         xlink:href="#aGtk6U51j"
-         opacity="1"
-         fill="#1e1e1e"
-         fill-opacity="1"
-         id="use23-2"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
+       id="g253-2"
+       style="display:inline"
+       transform="translate(260,46)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.999999"
+         x="160"
+         y="80"
+         id="text132-90"
+         inkscape:transform-center-x="-1.6339119"
+         inkscape:transform-center-y="-3.2678237"><tspan
+           sodipodi:role="line"
+           x="160"
+           y="80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan138-4">Actual</tspan><tspan
+           sodipodi:role="line"
+           x="160"
+           y="98.333374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan142-47">False</tspan><tspan
+           sodipodi:role="line"
+           x="160"
+           y="116.66675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan144-7">False</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;stroke-width:0.999999"
+         x="210"
+         y="80"
+         id="text132-6-8"
+         inkscape:transform-center-x="-1.6339119"
+         inkscape:transform-center-y="-3.2678237"><tspan
+           sodipodi:role="line"
+           x="210"
+           y="80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan138-8-1">Predict</tspan><tspan
+           sodipodi:role="line"
+           x="210"
+           y="98.333374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan142-6-4">True</tspan><tspan
+           sodipodi:role="line"
+           x="210"
+           y="116.66675"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+           id="tspan144-0-8">True</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 160,84 H 260 Z"
+         id="path190-58" />
     </g>
+    <text
+       xml:space="preserve"
+       id="text383"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect385);"><tspan
+         style="visibility:hidden"
+         x="80"
+         y="189.46302"><tspan
+           dx="0 13.145813 14.833309 15.614559">TRUE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.66666667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;"
+       x="110"
+       y="210"
+       id="text391"><tspan
+         sodipodi:role="line"
+         id="tspan389"
+         x="110"
+         y="210">FALSE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#666666"
+       x="240"
+       y="90"
+       id="text391-5"><tspan
+         sodipodi:role="line"
+         id="tspan389-0"
+         x="240"
+         y="90">FALSE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.66666667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';display:inline;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;"
+       x="430"
+       y="90"
+       id="text391-9"><tspan
+         sodipodi:role="line"
+         id="tspan389-7"
+         x="430"
+         y="90">TRUE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.66666667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';display:inline;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;"
+       x="110"
+       y="410"
+       id="text391-2"><tspan
+         sodipodi:role="line"
+         id="tspan389-6"
+         x="110"
+         y="410">TRUE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.66666667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;"
+       x="60"
+       y="300"
+       id="text443"><tspan
+         sodipodi:role="line"
+         id="tspan441"
+         x="60"
+         y="300">Actual</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.66666667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';display:inline;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;"
+       x="340"
+       y="60"
+       id="text443-9"><tspan
+         sodipodi:role="line"
+         id="tspan441-6"
+         x="340"
+         y="60">Predict</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="390"
+       y="500"
+       id="text481"><tspan
+         sodipodi:role="line"
+         x="390"
+         y="500"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan540">Precision is the # of TRUEs the</tspan><tspan
+         sodipodi:role="line"
+         x="390"
+         y="518.33337"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan544">model got right out of all it</tspan><tspan
+         sodipodi:role="line"
+         x="390"
+         y="536.66675"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan546">predicted to be TRUE.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline"
+       x="590"
+       y="380"
+       id="text481-2"><tspan
+         sodipodi:role="line"
+         x="590"
+         y="380"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan491-2">Recall is  the # of TRUEs the</tspan><tspan
+         sodipodi:role="line"
+         x="590"
+         y="398.33337"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan497-8">model got right out of all</tspan><tspan
+         sodipodi:role="line"
+         x="590"
+         y="416.66675"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan501-2">Actual TRUEs that exists.</tspan></text>
+    <g
+       id="g138"
+       style="stroke:#d2d2d2;stroke-opacity:1"
+       transform="matrix(1,0,0,0.875,0,162.5)">
+      <rect
+         style="fill:#fff6d5;stroke:#d2d2d2;stroke-opacity:1"
+         id="rect135"
+         width="200"
+         height="80"
+         x="580"
+         y="100" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.530331px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 610,320 c 0,0 -32.14286,52.5 -90,70"
+       id="path1027" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline"
+       x="590"
+       y="270"
+       id="text127-9"><tspan
+         sodipodi:role="line"
+         id="tspan125-8"
+         x="590"
+         y="270"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Out of all 6,265 Actual 7s, </tspan><tspan
+         sodipodi:role="line"
+         x="590"
+         y="286.66663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan133-3">the model predicted 5,402</tspan><tspan
+         sodipodi:role="line"
+         x="590"
+         y="303.33325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1357-7">correctly.</tspan></text>
+    <g
+       id="g138-3"
+       style="display:inline;stroke:#d2d2d2;stroke-opacity:1"
+       transform="matrix(1,0,0,0.875,0,17.5)">
+      <rect
+         style="fill:#fff6d5;stroke:#d2d2d2;stroke-opacity:1"
+         id="rect135-0"
+         width="200"
+         height="80"
+         x="580"
+         y="100" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline"
+       x="590"
+       y="130"
+       id="text127-9-6"><tspan
+         sodipodi:role="line"
+         x="590"
+         y="130"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1357-7-0">Out of all 5,992 that the</tspan><tspan
+         sodipodi:role="line"
+         x="590"
+         y="146.66663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1086">model predicted to be 7s,</tspan><tspan
+         sodipodi:role="line"
+         x="590"
+         y="163.33325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1088">590 are wrong.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1112)"
+       d="m 580,175 c 0,0 -10,25 -80,25"
+       id="path1090" />
   </g>
 </svg>
